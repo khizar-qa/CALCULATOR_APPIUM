@@ -1,0 +1,4 @@
+{
+  "using": "id",
+  "value": "com.google.android.calculator:id/digit_6"
+}
